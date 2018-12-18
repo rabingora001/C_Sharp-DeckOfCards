@@ -1,0 +1,11 @@
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.deps.json
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.runtimeconfig.json
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.runtimeconfig.dev.json
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.dll
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.1/DeckOfCards.pdb
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.AssemblyInfo.cs
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.dll
+/Users/rabingora001/Desktop/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.1/DeckOfCards.pdb
