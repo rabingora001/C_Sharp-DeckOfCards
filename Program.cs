@@ -7,8 +7,8 @@ namespace DeckOfCards
         static void Main(string[] args)
         {
             Player Rabin = new Player("rabin");
-            Player Tapan = new Player("tapan");
-            Player Max = new Player("max");
+            Player Sumnima = new Player("tapan");
+            Player Yesika = new Player("max");
 
             Deck myDeck = new Deck();
 
@@ -16,18 +16,35 @@ namespace DeckOfCards
 
             Rabin.Draw(myDeck);
             Rabin.Draw(myDeck);
+            Rabin.Draw(myDeck);
 
-            Tapan.Draw(myDeck);
-            Tapan.Draw(myDeck);
+            Sumnima.Draw(myDeck);
+            Sumnima.Draw(myDeck);
+            Sumnima.Draw(myDeck);
 
-            Max.Draw(myDeck);
-            Max.Draw(myDeck);
+            Yesika.Draw(myDeck);
+            Yesika.Draw(myDeck);
+            Yesika.Draw(myDeck);
             
             System.Console.WriteLine(myDeck);
             System.Console.WriteLine(Rabin.Hand);
-            System.Console.WriteLine(Tapan.Hand);
-            System.Console.WriteLine(Max.Hand);
+            System.Console.WriteLine(Sumnima.Hand);
+            System.Console.WriteLine(Yesika.Hand);
+
+            Console.WriteLine("**********Cards in Rabin's hanad: **********");
             foreach (Card card in Rabin.Hand)
+            {
+                System.Console.WriteLine(card);
+            }
+
+            Console.WriteLine("***********Cards in Sumnima's hanad:*********** ");
+            foreach (Card card in Sumnima.Hand)
+            {
+                System.Console.WriteLine(card);
+            }
+
+            Console.WriteLine("***********Cards in Yesika's hanad: ************");
+            foreach (Card card in Yesika.Hand)
             {
                 System.Console.WriteLine(card);
             }
